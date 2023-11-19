@@ -1,2 +1,3 @@
-# package-maintenance
-Package tracking and maintenance utilities to keep computers (macOS, Ubuntu) easily in sync.
+# Package Manager Utils
+- Utilities for helping back up, list, copy, and manage packages locally.
+- Handy cheat sheets to accomplish tasks that don't come up often.
